@@ -1,8 +1,5 @@
 console.log("Hello world");
 
-function login()
-}
-
 function sumar(){
     var a = 5;
     var b = 3;
